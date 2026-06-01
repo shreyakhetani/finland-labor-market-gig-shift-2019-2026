@@ -1,0 +1,43 @@
+year,category,value_pct,source
+2019,Employed,43.0,stat.fi
+2020,Employed,41.3,stat.fi
+2021,Employed,42.8,stat.fi
+2022,Employed,43.6,stat.fi
+2023,Employed,43.1,stat.fi
+2024,Employed,43.0,stat.fi
+2019,Unemployed,4.7,stat.fi
+2020,Unemployed,6.4,stat.fi
+2021,Unemployed,4.9,stat.fi
+2022,Unemployed,4.6,stat.fi
+2023,Unemployed,5.3,stat.fi
+2024,Unemployed,5.7,stat.fi
+2019,0-14 years old,15.8,stat.fi
+2020,0-14 years old,15.6,stat.fi
+2021,0-14 years old,15.4,stat.fi
+2022,0-14 years old,15.1,stat.fi
+2023,0-14 years old,14.9,stat.fi
+2024,0-14 years old,14.6,stat.fi
+2019,"Students, pupils",7.3,stat.fi
+2020,"Students, pupils",7.6,stat.fi
+2021,"Students, pupils",7.6,stat.fi
+2022,"Students, pupils",7.4,stat.fi
+2023,"Students, pupils",7.6,stat.fi
+2024,"Students, pupils",7.9,stat.fi
+2019,"Conscripts, persons in non-military service",0.1,stat.fi
+2020,"Conscripts, persons in non-military service",0.1,stat.fi
+2021,"Conscripts, persons in non-military service",0.1,stat.fi
+2022,"Conscripts, persons in non-military service",0.1,stat.fi
+2023,"Conscripts, persons in non-military service",0.1,stat.fi
+2024,"Conscripts, persons in non-military service",0.1,stat.fi
+2019,Pensioners,26.0,stat.fi
+2020,Pensioners,26.0,stat.fi
+2021,Pensioners,26.0,stat.fi
+2022,Pensioners,26.0,stat.fi
+2023,Pensioners,25.8,stat.fi
+2024,Pensioners,25.6,stat.fi
+2019,Other persons outside the labour force,3.2,stat.fi
+2020,Other persons outside the labour force,3.1,stat.fi
+2021,Other persons outside the labour force,3.1,stat.fi
+2022,Other persons outside the labour force,3.2,stat.fi
+2023,Other persons outside the labour force,3.3,stat.fi
+2024,Other persons outside the labour force,3.1,stat.fi
