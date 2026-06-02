@@ -1,0 +1,1325 @@
+geo,geopolitical_entity,obs_value,year,month
+AT,Austria,5.4,2025,7
+AT,Austria,5.7,2025,8
+AT,Austria,5.4,2025,9
+AT,Austria,5.5,2025,10
+AT,Austria,5.7,2025,11
+AT,Austria,5.8,2025,12
+AT,Austria,6.1,2026,1
+AT,Austria,6.7,2026,2
+AT,Austria,5.9,2026,3
+BA,Bosnia and Herzegovina,12.1,2025,7
+BA,Bosnia and Herzegovina,12.1,2025,8
+BA,Bosnia and Herzegovina,11.9,2025,9
+BA,Bosnia and Herzegovina,11.9,2025,10
+BA,Bosnia and Herzegovina,11.9,2025,11
+BA,Bosnia and Herzegovina,11.8,2025,12
+BA,Bosnia and Herzegovina,12.2,2026,1
+BA,Bosnia and Herzegovina,12.2,2026,2
+BE,Belgium,6.3,2025,7
+BE,Belgium,6.4,2025,8
+BE,Belgium,6.5,2025,9
+BE,Belgium,6.4,2025,10
+BE,Belgium,6.3,2025,11
+BE,Belgium,6.4,2025,12
+BE,Belgium,6.5,2026,1
+BE,Belgium,6.4,2026,2
+BE,Belgium,6.3,2026,3
+BG,Bulgaria,3.6,2025,7
+BG,Bulgaria,3.4,2025,8
+BG,Bulgaria,3.2,2025,9
+BG,Bulgaria,3.2,2025,10
+BG,Bulgaria,3.2,2025,11
+BG,Bulgaria,3.2,2025,12
+BG,Bulgaria,3.4,2026,1
+BG,Bulgaria,3.5,2026,2
+BG,Bulgaria,3.6,2026,3
+CH,Switzerland,5.0,2025,7
+CH,Switzerland,5.1,2025,8
+CH,Switzerland,5.1,2025,9
+CH,Switzerland,4.9,2025,10
+CH,Switzerland,4.9,2025,11
+CH,Switzerland,5.0,2025,12
+CY,Cyprus,4.8,2025,7
+CY,Cyprus,4.5,2025,8
+CY,Cyprus,3.1,2025,9
+CY,Cyprus,2.9,2025,10
+CY,Cyprus,4.5,2025,11
+CY,Cyprus,4.8,2025,12
+CY,Cyprus,4.7,2026,1
+CY,Cyprus,4.7,2026,2
+CY,Cyprus,4.8,2026,3
+CZ,Czechia,2.9,2025,7
+CZ,Czechia,3.2,2025,8
+CZ,Czechia,3.0,2025,9
+CZ,Czechia,3.1,2025,10
+CZ,Czechia,2.9,2025,11
+CZ,Czechia,3.0,2025,12
+CZ,Czechia,3.4,2026,1
+CZ,Czechia,3.4,2026,2
+CZ,Czechia,3.1,2026,3
+DE,Germany,3.9,2025,7
+DE,Germany,3.9,2025,8
+DE,Germany,4.0,2025,9
+DE,Germany,3.6,2025,10
+DE,Germany,3.8,2025,11
+DE,Germany,3.7,2025,12
+DE,Germany,4.2,2026,1
+DE,Germany,4.2,2026,2
+DE,Germany,4.2,2026,3
+DK,Denmark,6.6,2025,7
+DK,Denmark,6.6,2025,8
+DK,Denmark,6.3,2025,9
+DK,Denmark,6.6,2025,10
+DK,Denmark,6.6,2025,11
+DK,Denmark,5.8,2025,12
+DK,Denmark,8.0,2026,1
+DK,Denmark,8.3,2026,2
+DK,Denmark,6.9,2026,3
+EA21,Euro area – 21 countries (from 2026),6.2,2025,7
+EA21,Euro area – 21 countries (from 2026),6.3,2025,8
+EA21,Euro area – 21 countries (from 2026),6.4,2025,9
+EA21,Euro area – 21 countries (from 2026),6.2,2025,10
+EA21,Euro area – 21 countries (from 2026),6.2,2025,11
+EA21,Euro area – 21 countries (from 2026),6.2,2025,12
+EA21,Euro area – 21 countries (from 2026),6.4,2026,1
+EA21,Euro area – 21 countries (from 2026),6.5,2026,2
+EA21,Euro area – 21 countries (from 2026),6.4,2026,3
+EE,Estonia,7.8,2025,7
+EE,Estonia,7.1,2025,8
+EE,Estonia,7.1,2025,9
+EE,Estonia,6.7,2025,10
+EE,Estonia,6.4,2025,11
+EE,Estonia,6.5,2025,12
+EE,Estonia,6.3,2026,1
+EE,Estonia,7.0,2026,2
+EE,Estonia,6.9,2026,3
+EL,Greece,8.1,2025,7
+EL,Greece,8.5,2025,8
+EL,Greece,8.1,2025,9
+EL,Greece,8.6,2025,10
+EL,Greece,8.1,2025,11
+EL,Greece,8.3,2025,12
+EL,Greece,8.7,2026,1
+EL,Greece,9.6,2026,2
+EL,Greece,9.8,2026,3
+ES,Spain,10.4,2025,7
+ES,Spain,10.6,2025,8
+ES,Spain,10.4,2025,9
+ES,Spain,10.1,2025,10
+ES,Spain,9.8,2025,11
+ES,Spain,9.9,2025,12
+ES,Spain,10.6,2026,1
+ES,Spain,11.0,2026,2
+ES,Spain,10.9,2026,3
+EU27_2020,European Union - 27 countries (from 2020),5.9,2025,7
+EU27_2020,European Union - 27 countries (from 2020),6.0,2025,8
+EU27_2020,European Union - 27 countries (from 2020),6.0,2025,9
+EU27_2020,European Union - 27 countries (from 2020),5.9,2025,10
+EU27_2020,European Union - 27 countries (from 2020),5.9,2025,11
+EU27_2020,European Union - 27 countries (from 2020),5.9,2025,12
+EU27_2020,European Union - 27 countries (from 2020),6.1,2026,1
+EU27_2020,European Union - 27 countries (from 2020),6.2,2026,2
+EU27_2020,European Union - 27 countries (from 2020),6.1,2026,3
+FI,Finland,9.3,2025,7
+FI,Finland,9.3,2025,8
+FI,Finland,9.1,2025,9
+FI,Finland,9.6,2025,10
+FI,Finland,9.7,2025,11
+FI,Finland,9.8,2025,12
+FI,Finland,10.4,2026,1
+FI,Finland,10.9,2026,2
+FI,Finland,11.1,2026,3
+FI,Finland,11.6,2026,4
+FR,France,7.5,2025,7
+FR,France,8.2,2025,8
+FR,France,7.9,2025,9
+FR,France,8.2,2025,10
+FR,France,8.1,2025,11
+FR,France,8.0,2025,12
+FR,France,8.0,2026,1
+FR,France,7.8,2026,2
+FR,France,7.5,2026,3
+HR,Croatia,4.3,2025,7
+HR,Croatia,4.4,2025,8
+HR,Croatia,4.4,2025,9
+HR,Croatia,4.7,2025,10
+HR,Croatia,4.9,2025,11
+HR,Croatia,4.9,2025,12
+HR,Croatia,5.2,2026,1
+HR,Croatia,4.9,2026,2
+HR,Croatia,4.4,2026,3
+HU,Hungary,4.3,2025,7
+HU,Hungary,4.3,2025,8
+HU,Hungary,4.5,2025,9
+HU,Hungary,4.4,2025,10
+HU,Hungary,4.4,2025,11
+HU,Hungary,4.4,2025,12
+HU,Hungary,4.6,2026,1
+HU,Hungary,4.8,2026,2
+HU,Hungary,4.5,2026,3
+IE,Ireland,5.6,2025,7
+IE,Ireland,5.4,2025,8
+IE,Ireland,4.8,2025,9
+IE,Ireland,4.4,2025,10
+IE,Ireland,4.2,2025,11
+IE,Ireland,4.6,2025,12
+IE,Ireland,4.8,2026,1
+IE,Ireland,4.8,2026,2
+IE,Ireland,5.0,2026,3
+IE,Ireland,4.9,2026,4
+IS,Iceland,3.2,2025,7
+IS,Iceland,5.3,2025,8
+IS,Iceland,3.2,2025,9
+IS,Iceland,4.4,2025,10
+IS,Iceland,6.5,2025,11
+IS,Iceland,4.2,2025,12
+IS,Iceland,7.5,2026,1
+IS,Iceland,8.0,2026,2
+IT,Italy,5.8,2025,7
+IT,Italy,5.2,2025,8
+IT,Italy,5.9,2025,9
+IT,Italy,5.5,2025,10
+IT,Italy,5.4,2025,11
+IT,Italy,5.7,2025,12
+IT,Italy,4.9,2026,1
+IT,Italy,5.4,2026,2
+IT,Italy,5.5,2026,3
+JP,Japan,2.4,2025,7
+JP,Japan,2.6,2025,8
+JP,Japan,2.6,2025,9
+JP,Japan,2.6,2025,10
+JP,Japan,2.4,2025,11
+JP,Japan,2.4,2025,12
+JP,Japan,2.6,2026,1
+JP,Japan,2.6,2026,2
+JP,Japan,2.8,2026,3
+LT,Lithuania,7.0,2025,7
+LT,Lithuania,7.0,2025,8
+LT,Lithuania,5.9,2025,9
+LT,Lithuania,6.3,2025,10
+LT,Lithuania,6.9,2025,11
+LT,Lithuania,7.4,2025,12
+LT,Lithuania,6.8,2026,1
+LT,Lithuania,6.7,2026,2
+LT,Lithuania,6.2,2026,3
+LU,Luxembourg,6.2,2025,7
+LU,Luxembourg,6.1,2025,8
+LU,Luxembourg,6.5,2025,9
+LU,Luxembourg,6.6,2025,10
+LU,Luxembourg,7.0,2025,11
+LU,Luxembourg,7.3,2025,12
+LU,Luxembourg,7.3,2026,1
+LU,Luxembourg,7.2,2026,2
+LU,Luxembourg,7.0,2026,3
+LV,Latvia,7.0,2025,7
+LV,Latvia,7.0,2025,8
+LV,Latvia,6.7,2025,9
+LV,Latvia,6.6,2025,10
+LV,Latvia,6.7,2025,11
+LV,Latvia,6.9,2025,12
+LV,Latvia,7.1,2026,1
+LV,Latvia,7.1,2026,2
+LV,Latvia,6.8,2026,3
+MK,North Macedonia,11.9,2025,7
+MK,North Macedonia,11.7,2025,8
+MK,North Macedonia,11.6,2025,9
+MK,North Macedonia,11.6,2025,10
+MK,North Macedonia,11.2,2025,11
+MK,North Macedonia,11.0,2025,12
+MK,North Macedonia,11.0,2026,1
+MK,North Macedonia,10.9,2026,2
+MK,North Macedonia,10.8,2026,3
+MT,Malta,2.8,2025,7
+MT,Malta,2.7,2025,8
+MT,Malta,2.9,2025,9
+MT,Malta,3.1,2025,10
+MT,Malta,3.2,2025,11
+MT,Malta,3.3,2025,12
+MT,Malta,3.5,2026,1
+MT,Malta,3.5,2026,2
+MT,Malta,3.5,2026,3
+NL,Netherlands,3.7,2025,7
+NL,Netherlands,4.0,2025,8
+NL,Netherlands,4.2,2025,9
+NL,Netherlands,4.0,2025,10
+NL,Netherlands,3.8,2025,11
+NL,Netherlands,3.8,2025,12
+NL,Netherlands,4.3,2026,1
+NL,Netherlands,4.3,2026,2
+NL,Netherlands,3.9,2026,3
+NL,Netherlands,3.7,2026,4
+NO,Norway,4.1,2025,7
+NO,Norway,5.0,2025,8
+NO,Norway,4.9,2025,9
+NO,Norway,4.3,2025,10
+NO,Norway,4.4,2025,11
+NO,Norway,3.9,2025,12
+NO,Norway,4.5,2026,1
+NO,Norway,4.8,2026,2
+NO,Norway,5.3,2026,3
+PL,Poland,3.0,2025,7
+PL,Poland,3.2,2025,8
+PL,Poland,3.2,2025,9
+PL,Poland,3.2,2025,10
+PL,Poland,3.1,2025,11
+PL,Poland,3.2,2025,12
+PL,Poland,3.5,2026,1
+PL,Poland,3.6,2026,2
+PL,Poland,3.5,2026,3
+PT,Portugal,5.6,2025,7
+PT,Portugal,5.8,2025,8
+PT,Portugal,6.0,2025,9
+PT,Portugal,5.9,2025,10
+PT,Portugal,5.8,2025,11
+PT,Portugal,5.8,2025,12
+PT,Portugal,6.0,2026,1
+PT,Portugal,6.2,2026,2
+PT,Portugal,6.0,2026,3
+RO,Romania,5.9,2025,7
+RO,Romania,6.0,2025,8
+RO,Romania,6.0,2025,9
+RO,Romania,6.2,2025,10
+RO,Romania,6.4,2025,11
+RO,Romania,6.3,2025,12
+RO,Romania,6.1,2026,1
+RO,Romania,6.1,2026,2
+RO,Romania,6.2,2026,3
+SE,Sweden,8.0,2025,7
+SE,Sweden,8.4,2025,8
+SE,Sweden,8.3,2025,9
+SE,Sweden,8.9,2025,10
+SE,Sweden,8.2,2025,11
+SE,Sweden,8.3,2025,12
+SE,Sweden,8.6,2026,1
+SE,Sweden,8.8,2026,2
+SE,Sweden,9.7,2026,3
+SE,Sweden,8.7,2026,4
+SI,Slovenia,4.0,2025,7
+SI,Slovenia,4.3,2025,8
+SI,Slovenia,4.4,2025,9
+SI,Slovenia,4.3,2025,10
+SI,Slovenia,4.0,2025,11
+SI,Slovenia,4.0,2025,12
+SI,Slovenia,4.2,2026,1
+SI,Slovenia,4.0,2026,2
+SI,Slovenia,3.8,2026,3
+SK,Slovakia,5.5,2025,7
+SK,Slovakia,5.5,2025,8
+SK,Slovakia,5.6,2025,9
+SK,Slovakia,5.5,2025,10
+SK,Slovakia,5.5,2025,11
+SK,Slovakia,5.7,2025,12
+SK,Slovakia,5.8,2026,1
+SK,Slovakia,5.7,2026,2
+SK,Slovakia,5.6,2026,3
+TR,Türkiye,8.3,2025,7
+TR,Türkiye,8.5,2025,8
+TR,Türkiye,8.6,2025,9
+TR,Türkiye,8.2,2025,10
+TR,Türkiye,8.6,2025,11
+TR,Türkiye,7.8,2025,12
+TR,Türkiye,8.6,2026,1
+TR,Türkiye,9.0,2026,2
+TR,Türkiye,8.1,2026,3
+US,United States,4.6,2025,7
+US,United States,4.5,2025,8
+US,United States,4.3,2025,9
+US,United States,4.3,2025,11
+US,United States,4.1,2025,12
+US,United States,4.7,2026,1
+US,United States,4.7,2026,2
+US,United States,4.3,2026,3
+AT,Austria,258.0,2025,7
+AT,Austria,272.0,2025,8
+AT,Austria,258.0,2025,9
+AT,Austria,265.0,2025,10
+AT,Austria,269.0,2025,11
+AT,Austria,276.0,2025,12
+AT,Austria,292.0,2026,1
+AT,Austria,316.0,2026,2
+AT,Austria,280.0,2026,3
+BA,Bosnia and Herzegovina,175.0,2025,7
+BA,Bosnia and Herzegovina,176.0,2025,8
+BA,Bosnia and Herzegovina,173.0,2025,9
+BA,Bosnia and Herzegovina,173.0,2025,10
+BA,Bosnia and Herzegovina,172.0,2025,11
+BA,Bosnia and Herzegovina,172.0,2025,12
+BA,Bosnia and Herzegovina,172.0,2026,1
+BA,Bosnia and Herzegovina,171.0,2026,2
+BE,Belgium,345.0,2025,7
+BE,Belgium,351.0,2025,8
+BE,Belgium,356.0,2025,9
+BE,Belgium,354.0,2025,10
+BE,Belgium,347.0,2025,11
+BE,Belgium,355.0,2025,12
+BE,Belgium,358.0,2026,1
+BE,Belgium,352.0,2026,2
+BE,Belgium,344.0,2026,3
+BG,Bulgaria,111.0,2025,7
+BG,Bulgaria,105.0,2025,8
+BG,Bulgaria,98.0,2025,9
+BG,Bulgaria,97.0,2025,10
+BG,Bulgaria,95.0,2025,11
+BG,Bulgaria,96.0,2025,12
+BG,Bulgaria,102.0,2026,1
+BG,Bulgaria,105.0,2026,2
+BG,Bulgaria,107.0,2026,3
+CH,Switzerland,255.0,2025,7
+CH,Switzerland,264.0,2025,8
+CH,Switzerland,264.0,2025,9
+CH,Switzerland,254.0,2025,10
+CH,Switzerland,254.0,2025,11
+CH,Switzerland,260.0,2025,12
+CY,Cyprus,25.0,2025,7
+CY,Cyprus,24.0,2025,8
+CY,Cyprus,16.0,2025,9
+CY,Cyprus,15.0,2025,10
+CY,Cyprus,24.0,2025,11
+CY,Cyprus,25.0,2025,12
+CY,Cyprus,25.0,2026,1
+CY,Cyprus,25.0,2026,2
+CY,Cyprus,26.0,2026,3
+CZ,Czechia,157.0,2025,7
+CZ,Czechia,174.0,2025,8
+CZ,Czechia,162.0,2025,9
+CZ,Czechia,169.0,2025,10
+CZ,Czechia,157.0,2025,11
+CZ,Czechia,162.0,2025,12
+CZ,Czechia,183.0,2026,1
+CZ,Czechia,181.0,2026,2
+CZ,Czechia,168.0,2026,3
+DE,Germany,1696.0,2025,7
+DE,Germany,1740.0,2025,8
+DE,Germany,1791.0,2025,9
+DE,Germany,1615.0,2025,10
+DE,Germany,1703.0,2025,11
+DE,Germany,1651.0,2025,12
+DE,Germany,1858.0,2026,1
+DE,Germany,1838.0,2026,2
+DE,Germany,1835.0,2026,3
+DK,Denmark,217.0,2025,7
+DK,Denmark,217.0,2025,8
+DK,Denmark,208.0,2025,9
+DK,Denmark,218.0,2025,10
+DK,Denmark,215.0,2025,11
+DK,Denmark,191.0,2025,12
+DK,Denmark,264.0,2026,1
+DK,Denmark,273.0,2026,2
+DK,Denmark,227.0,2026,3
+EA21,Euro area – 21 countries (from 2026),10950.0,2025,7
+EA21,Euro area – 21 countries (from 2026),11157.0,2025,8
+EA21,Euro area – 21 countries (from 2026),11253.0,2025,9
+EA21,Euro area – 21 countries (from 2026),10943.0,2025,10
+EA21,Euro area – 21 countries (from 2026),10832.0,2025,11
+EA21,Euro area – 21 countries (from 2026),10897.0,2025,12
+EA21,Euro area – 21 countries (from 2026),11250.0,2026,1
+EA21,Euro area – 21 countries (from 2026),11484.0,2026,2
+EA21,Euro area – 21 countries (from 2026),11294.0,2026,3
+EE,Estonia,60.0,2025,7
+EE,Estonia,54.0,2025,8
+EE,Estonia,53.0,2025,9
+EE,Estonia,50.0,2025,10
+EE,Estonia,47.0,2025,11
+EE,Estonia,48.0,2025,12
+EE,Estonia,46.0,2026,1
+EE,Estonia,52.0,2026,2
+EE,Estonia,52.0,2026,3
+EL,Greece,385.0,2025,7
+EL,Greece,405.0,2025,8
+EL,Greece,390.0,2025,9
+EL,Greece,412.0,2025,10
+EL,Greece,386.0,2025,11
+EL,Greece,386.0,2025,12
+EL,Greece,410.0,2026,1
+EL,Greece,459.0,2026,2
+EL,Greece,468.0,2026,3
+ES,Spain,2591.0,2025,7
+ES,Spain,2638.0,2025,8
+ES,Spain,2610.0,2025,9
+ES,Spain,2511.0,2025,10
+ES,Spain,2446.0,2025,11
+ES,Spain,2474.0,2025,12
+ES,Spain,2650.0,2026,1
+ES,Spain,2743.0,2026,2
+ES,Spain,2733.0,2026,3
+EU27_2020,European Union - 27 countries (from 2020),13035.0,2025,7
+EU27_2020,European Union - 27 countries (from 2020),13304.0,2025,8
+EU27_2020,European Union - 27 countries (from 2020),13388.0,2025,9
+EU27_2020,European Union - 27 countries (from 2020),13127.0,2025,10
+EU27_2020,European Union - 27 countries (from 2020),12967.0,2025,11
+EU27_2020,European Union - 27 countries (from 2020),13028.0,2025,12
+EU27_2020,European Union - 27 countries (from 2020),13525.0,2026,1
+EU27_2020,European Union - 27 countries (from 2020),13809.0,2026,2
+EU27_2020,European Union - 27 countries (from 2020),13603.0,2026,3
+FI,Finland,269.0,2025,7
+FI,Finland,267.0,2025,8
+FI,Finland,259.0,2025,9
+FI,Finland,276.0,2025,10
+FI,Finland,276.0,2025,11
+FI,Finland,277.0,2025,12
+FI,Finland,295.0,2026,1
+FI,Finland,312.0,2026,2
+FI,Finland,315.0,2026,3
+FI,Finland,336.0,2026,4
+FR,France,2399.0,2025,7
+FR,France,2608.0,2025,8
+FR,France,2523.0,2025,9
+FR,France,2592.0,2025,10
+FR,France,2552.0,2025,11
+FR,France,2520.0,2025,12
+FR,France,2549.0,2026,1
+FR,France,2480.0,2026,2
+FR,France,2394.0,2026,3
+HR,Croatia,76.0,2025,7
+HR,Croatia,79.0,2025,8
+HR,Croatia,80.0,2025,9
+HR,Croatia,84.0,2025,10
+HR,Croatia,87.0,2025,11
+HR,Croatia,88.0,2025,12
+HR,Croatia,93.0,2026,1
+HR,Croatia,89.0,2026,2
+HR,Croatia,80.0,2026,3
+HU,Hungary,211.0,2025,7
+HU,Hungary,208.0,2025,8
+HU,Hungary,218.0,2025,9
+HU,Hungary,217.0,2025,10
+HU,Hungary,213.0,2025,11
+HU,Hungary,211.0,2025,12
+HU,Hungary,225.0,2026,1
+HU,Hungary,231.0,2026,2
+HU,Hungary,219.0,2026,3
+IE,Ireland,166.0,2025,7
+IE,Ireland,159.0,2025,8
+IE,Ireland,142.0,2025,9
+IE,Ireland,128.0,2025,10
+IE,Ireland,123.0,2025,11
+IE,Ireland,134.0,2025,12
+IE,Ireland,139.0,2026,1
+IE,Ireland,141.0,2026,2
+IE,Ireland,145.0,2026,3
+IE,Ireland,142.0,2026,4
+IS,Iceland,8.0,2025,7
+IS,Iceland,13.0,2025,8
+IS,Iceland,7.0,2025,9
+IS,Iceland,10.0,2025,10
+IS,Iceland,15.0,2025,11
+IS,Iceland,10.0,2025,12
+IS,Iceland,18.0,2026,1
+IS,Iceland,18.0,2026,2
+IT,Italy,1480.0,2025,7
+IT,Italy,1317.0,2025,8
+IT,Italy,1514.0,2025,9
+IT,Italy,1406.0,2025,10
+IT,Italy,1363.0,2025,11
+IT,Italy,1441.0,2025,12
+IT,Italy,1258.0,2026,1
+IT,Italy,1387.0,2026,2
+IT,Italy,1391.0,2026,3
+JP,Japan,1700.0,2025,7
+JP,Japan,1820.0,2025,8
+JP,Japan,1840.0,2025,9
+JP,Japan,1830.0,2025,10
+JP,Japan,1710.0,2025,11
+JP,Japan,1660.0,2025,12
+JP,Japan,1790.0,2026,1
+JP,Japan,1800.0,2026,2
+JP,Japan,1940.0,2026,3
+LT,Lithuania,110.0,2025,7
+LT,Lithuania,109.0,2025,8
+LT,Lithuania,96.0,2025,9
+LT,Lithuania,99.0,2025,10
+LT,Lithuania,107.0,2025,11
+LT,Lithuania,113.0,2025,12
+LT,Lithuania,106.0,2026,1
+LT,Lithuania,104.0,2026,2
+LT,Lithuania,97.0,2026,3
+LU,Luxembourg,22.0,2025,7
+LU,Luxembourg,21.0,2025,8
+LU,Luxembourg,23.0,2025,9
+LU,Luxembourg,23.0,2025,10
+LU,Luxembourg,24.0,2025,11
+LU,Luxembourg,25.0,2025,12
+LU,Luxembourg,26.0,2026,1
+LU,Luxembourg,25.0,2026,2
+LU,Luxembourg,25.0,2026,3
+LV,Latvia,67.0,2025,7
+LV,Latvia,67.0,2025,8
+LV,Latvia,64.0,2025,9
+LV,Latvia,63.0,2025,10
+LV,Latvia,63.0,2025,11
+LV,Latvia,66.0,2025,12
+LV,Latvia,67.0,2026,1
+LV,Latvia,67.0,2026,2
+LV,Latvia,64.0,2026,3
+MK,North Macedonia,95.0,2025,7
+MK,North Macedonia,94.0,2025,8
+MK,North Macedonia,93.0,2025,9
+MK,North Macedonia,93.0,2025,10
+MK,North Macedonia,89.0,2025,11
+MK,North Macedonia,88.0,2025,12
+MK,North Macedonia,87.0,2026,1
+MK,North Macedonia,86.0,2026,2
+MK,North Macedonia,85.0,2026,3
+MT,Malta,9.0,2025,7
+MT,Malta,9.0,2025,8
+MT,Malta,10.0,2025,9
+MT,Malta,11.0,2025,10
+MT,Malta,11.0,2025,11
+MT,Malta,11.0,2025,12
+MT,Malta,12.0,2026,1
+MT,Malta,12.0,2026,2
+MT,Malta,12.0,2026,3
+NL,Netherlands,379.0,2025,7
+NL,Netherlands,409.0,2025,8
+NL,Netherlands,431.0,2025,9
+NL,Netherlands,408.0,2025,10
+NL,Netherlands,386.0,2025,11
+NL,Netherlands,388.0,2025,12
+NL,Netherlands,437.0,2026,1
+NL,Netherlands,443.0,2026,2
+NL,Netherlands,403.0,2026,3
+NL,Netherlands,377.0,2026,4
+NO,Norway,127.0,2025,7
+NO,Norway,153.0,2025,8
+NO,Norway,147.0,2025,9
+NO,Norway,131.0,2025,10
+NO,Norway,134.0,2025,11
+NO,Norway,117.0,2025,12
+NO,Norway,136.0,2026,1
+NO,Norway,145.0,2026,2
+NO,Norway,160.0,2026,3
+PL,Poland,539.0,2025,7
+PL,Poland,568.0,2025,8
+PL,Poland,579.0,2025,9
+PL,Poland,566.0,2025,10
+PL,Poland,562.0,2025,11
+PL,Poland,572.0,2025,12
+PL,Poland,619.0,2026,1
+PL,Poland,638.0,2026,2
+PL,Poland,625.0,2026,3
+PT,Portugal,311.0,2025,7
+PT,Portugal,327.0,2025,8
+PT,Portugal,337.0,2025,9
+PT,Portugal,334.0,2025,10
+PT,Portugal,326.0,2025,11
+PT,Portugal,327.0,2025,12
+PT,Portugal,334.0,2026,1
+PT,Portugal,346.0,2026,2
+PT,Portugal,339.0,2026,3
+RO,Romania,487.0,2025,7
+RO,Romania,495.0,2025,8
+RO,Romania,492.0,2025,9
+RO,Romania,506.0,2025,10
+RO,Romania,518.0,2025,11
+RO,Romania,518.0,2025,12
+RO,Romania,495.0,2026,1
+RO,Romania,496.0,2026,2
+RO,Romania,505.0,2026,3
+SE,Sweden,474.0,2025,7
+SE,Sweden,486.0,2025,8
+SE,Sweden,476.0,2025,9
+SE,Sweden,509.0,2025,10
+SE,Sweden,470.0,2025,11
+SE,Sweden,477.0,2025,12
+SE,Sweden,490.0,2026,1
+SE,Sweden,507.0,2026,2
+SE,Sweden,565.0,2026,3
+SE,Sweden,500.0,2026,4
+SI,Slovenia,42.0,2025,7
+SI,Slovenia,46.0,2025,8
+SI,Slovenia,46.0,2025,9
+SI,Slovenia,45.0,2025,10
+SI,Slovenia,41.0,2025,11
+SI,Slovenia,41.0,2025,12
+SI,Slovenia,43.0,2026,1
+SI,Slovenia,41.0,2026,2
+SI,Slovenia,39.0,2026,3
+SK,Slovakia,151.0,2025,7
+SK,Slovakia,152.0,2025,8
+SK,Slovakia,155.0,2025,9
+SK,Slovakia,154.0,2025,10
+SK,Slovakia,153.0,2025,11
+SK,Slovakia,158.0,2025,12
+SK,Slovakia,160.0,2026,1
+SK,Slovakia,157.0,2026,2
+SK,Slovakia,153.0,2026,3
+TR,Türkiye,2980.0,2025,7
+TR,Türkiye,3106.0,2025,8
+TR,Türkiye,3089.0,2025,9
+TR,Türkiye,2964.0,2025,10
+TR,Türkiye,3088.0,2025,11
+TR,Türkiye,2699.0,2025,12
+TR,Türkiye,2943.0,2026,1
+TR,Türkiye,3118.0,2026,2
+TR,Türkiye,2817.0,2026,3
+US,United States,7846.0,2025,7
+US,United States,7746.0,2025,8
+US,United States,7323.0,2025,9
+US,United States,7401.0,2025,11
+US,United States,7003.0,2025,12
+US,United States,7942.0,2026,1
+US,United States,8052.0,2026,2
+US,United States,7337.0,2026,3
+AT,Austria,5.6,2025,7
+AT,Austria,6.0,2025,8
+AT,Austria,5.5,2025,9
+AT,Austria,5.8,2025,10
+AT,Austria,5.9,2025,11
+AT,Austria,5.8,2025,12
+AT,Austria,5.5,2026,1
+AT,Austria,5.8,2026,2
+AT,Austria,5.6,2026,3
+BA,Bosnia and Herzegovina,12.2,2025,7
+BA,Bosnia and Herzegovina,12.2,2025,8
+BA,Bosnia and Herzegovina,12.1,2025,9
+BA,Bosnia and Herzegovina,12.1,2025,10
+BA,Bosnia and Herzegovina,12.1,2025,11
+BA,Bosnia and Herzegovina,12.0,2025,12
+BA,Bosnia and Herzegovina,12.0,2026,1
+BA,Bosnia and Herzegovina,12.0,2026,2
+BE,Belgium,6.1,2025,7
+BE,Belgium,6.1,2025,8
+BE,Belgium,6.3,2025,9
+BE,Belgium,6.4,2025,10
+BE,Belgium,6.4,2025,11
+BE,Belgium,6.5,2025,12
+BE,Belgium,6.4,2026,1
+BE,Belgium,6.4,2026,2
+BE,Belgium,6.3,2026,3
+BG,Bulgaria,3.8,2025,7
+BG,Bulgaria,3.8,2025,8
+BG,Bulgaria,3.7,2025,9
+BG,Bulgaria,3.5,2025,10
+BG,Bulgaria,3.3,2025,11
+BG,Bulgaria,3.2,2025,12
+BG,Bulgaria,3.2,2026,1
+BG,Bulgaria,3.2,2026,2
+BG,Bulgaria,3.2,2026,3
+CH,Switzerland,4.9,2025,7
+CH,Switzerland,4.9,2025,8
+CH,Switzerland,5.0,2025,9
+CH,Switzerland,5.1,2025,10
+CH,Switzerland,5.2,2025,11
+CH,Switzerland,5.1,2025,12
+CY,Cyprus,4.4,2025,7
+CY,Cyprus,4.4,2025,8
+CY,Cyprus,4.2,2025,9
+CY,Cyprus,4.2,2025,10
+CY,Cyprus,4.2,2025,11
+CY,Cyprus,4.2,2025,12
+CY,Cyprus,4.3,2026,1
+CY,Cyprus,4.2,2026,2
+CY,Cyprus,4.3,2026,3
+CZ,Czechia,2.8,2025,7
+CZ,Czechia,3.1,2025,8
+CZ,Czechia,3.0,2025,9
+CZ,Czechia,3.2,2025,10
+CZ,Czechia,3.2,2025,11
+CZ,Czechia,3.1,2025,12
+CZ,Czechia,3.2,2026,1
+CZ,Czechia,3.2,2026,2
+CZ,Czechia,3.1,2026,3
+DE,Germany,3.8,2025,7
+DE,Germany,3.8,2025,8
+DE,Germany,3.9,2025,9
+DE,Germany,3.9,2025,10
+DE,Germany,3.9,2025,11
+DE,Germany,4.0,2025,12
+DE,Germany,4.0,2026,1
+DE,Germany,4.0,2026,2
+DE,Germany,4.0,2026,3
+DK,Denmark,6.5,2025,7
+DK,Denmark,6.4,2025,8
+DK,Denmark,6.3,2025,9
+DK,Denmark,6.8,2025,10
+DK,Denmark,6.6,2025,11
+DK,Denmark,6.1,2025,12
+DK,Denmark,7.3,2026,1
+DK,Denmark,7.6,2026,2
+DK,Denmark,6.9,2026,3
+EA21,Euro area – 21 countries (from 2026),6.3,2025,7
+EA21,Euro area – 21 countries (from 2026),6.3,2025,8
+EA21,Euro area – 21 countries (from 2026),6.3,2025,9
+EA21,Euro area – 21 countries (from 2026),6.3,2025,10
+EA21,Euro area – 21 countries (from 2026),6.3,2025,11
+EA21,Euro area – 21 countries (from 2026),6.3,2025,12
+EA21,Euro area – 21 countries (from 2026),6.2,2026,1
+EA21,Euro area – 21 countries (from 2026),6.3,2026,2
+EA21,Euro area – 21 countries (from 2026),6.2,2026,3
+EE,Estonia,7.9,2025,7
+EE,Estonia,7.2,2025,8
+EE,Estonia,7.1,2025,9
+EE,Estonia,6.7,2025,10
+EE,Estonia,6.4,2025,11
+EE,Estonia,6.5,2025,12
+EE,Estonia,6.2,2026,1
+EE,Estonia,7.0,2026,2
+EE,Estonia,6.9,2026,3
+EL,Greece,8.8,2025,7
+EL,Greece,8.7,2025,8
+EL,Greece,8.7,2025,9
+EL,Greece,8.9,2025,10
+EL,Greece,8.4,2025,11
+EL,Greece,7.9,2025,12
+EL,Greece,8.0,2026,1
+EL,Greece,8.6,2026,2
+EL,Greece,9.0,2026,3
+ES,Spain,10.6,2025,7
+ES,Spain,10.5,2025,8
+ES,Spain,10.4,2025,9
+ES,Spain,10.2,2025,10
+ES,Spain,10.2,2025,11
+ES,Spain,10.2,2025,12
+ES,Spain,10.2,2026,1
+ES,Spain,10.3,2026,2
+ES,Spain,10.3,2026,3
+EU27_2020,European Union - 27 countries (from 2020),6.0,2025,7
+EU27_2020,European Union - 27 countries (from 2020),6.0,2025,8
+EU27_2020,European Union - 27 countries (from 2020),6.0,2025,9
+EU27_2020,European Union - 27 countries (from 2020),6.0,2025,10
+EU27_2020,European Union - 27 countries (from 2020),6.0,2025,11
+EU27_2020,European Union - 27 countries (from 2020),6.0,2025,12
+EU27_2020,European Union - 27 countries (from 2020),5.9,2026,1
+EU27_2020,European Union - 27 countries (from 2020),6.0,2026,2
+EU27_2020,European Union - 27 countries (from 2020),6.0,2026,3
+FI,Finland,10.0,2025,7
+FI,Finland,10.1,2025,8
+FI,Finland,9.7,2025,9
+FI,Finland,10.4,2025,10
+FI,Finland,10.6,2025,11
+FI,Finland,10.3,2025,12
+FI,Finland,10.0,2026,1
+FI,Finland,10.7,2026,2
+FI,Finland,10.5,2026,3
+FI,Finland,10.7,2026,4
+FR,France,7.7,2025,7
+FR,France,7.7,2025,8
+FR,France,7.8,2025,9
+FR,France,7.9,2025,10
+FR,France,7.9,2025,11
+FR,France,7.8,2025,12
+FR,France,7.8,2026,1
+FR,France,7.7,2026,2
+FR,France,7.7,2026,3
+HR,Croatia,4.7,2025,7
+HR,Croatia,4.7,2025,8
+HR,Croatia,4.8,2025,9
+HR,Croatia,4.7,2025,10
+HR,Croatia,4.6,2025,11
+HR,Croatia,4.5,2025,12
+HR,Croatia,4.4,2026,1
+HR,Croatia,4.3,2026,2
+HR,Croatia,4.1,2026,3
+HU,Hungary,4.3,2025,7
+HU,Hungary,4.3,2025,8
+HU,Hungary,4.5,2025,9
+HU,Hungary,4.5,2025,10
+HU,Hungary,4.4,2025,11
+HU,Hungary,4.5,2025,12
+HU,Hungary,4.5,2026,1
+HU,Hungary,4.6,2026,2
+HU,Hungary,4.4,2026,3
+IE,Ireland,5.1,2025,7
+IE,Ireland,5.0,2025,8
+IE,Ireland,4.9,2025,9
+IE,Ireland,4.6,2025,10
+IE,Ireland,4.6,2025,11
+IE,Ireland,4.8,2025,12
+IE,Ireland,5.0,2026,1
+IE,Ireland,5.0,2026,2
+IE,Ireland,5.0,2026,3
+IE,Ireland,4.8,2026,4
+IS,Iceland,4.2,2025,7
+IS,Iceland,4.3,2025,8
+IS,Iceland,4.5,2025,9
+IS,Iceland,4.7,2025,10
+IS,Iceland,5.6,2025,11
+IS,Iceland,5.7,2025,12
+IS,Iceland,5.9,2026,1
+IS,Iceland,6.0,2026,2
+IT,Italy,6.0,2025,7
+IT,Italy,5.9,2025,8
+IT,Italy,6.0,2025,9
+IT,Italy,5.8,2025,10
+IT,Italy,5.6,2025,11
+IT,Italy,5.6,2025,12
+IT,Italy,5.2,2026,1
+IT,Italy,5.4,2026,2
+IT,Italy,5.2,2026,3
+JP,Japan,2.4,2025,7
+JP,Japan,2.6,2025,8
+JP,Japan,2.6,2025,9
+JP,Japan,2.6,2025,10
+JP,Japan,2.6,2025,11
+JP,Japan,2.6,2025,12
+JP,Japan,2.7,2026,1
+JP,Japan,2.6,2026,2
+JP,Japan,2.7,2026,3
+LT,Lithuania,6.8,2025,7
+LT,Lithuania,6.9,2025,8
+LT,Lithuania,6.6,2025,9
+LT,Lithuania,6.7,2025,10
+LT,Lithuania,6.7,2025,11
+LT,Lithuania,6.7,2025,12
+LT,Lithuania,6.4,2026,1
+LT,Lithuania,6.6,2026,2
+LT,Lithuania,6.5,2026,3
+LU,Luxembourg,6.4,2025,7
+LU,Luxembourg,6.4,2025,8
+LU,Luxembourg,6.7,2025,9
+LU,Luxembourg,6.5,2025,10
+LU,Luxembourg,6.8,2025,11
+LU,Luxembourg,6.8,2025,12
+LU,Luxembourg,6.9,2026,1
+LU,Luxembourg,6.9,2026,2
+LU,Luxembourg,6.9,2026,3
+LV,Latvia,7.1,2025,7
+LV,Latvia,7.2,2025,8
+LV,Latvia,7.0,2025,9
+LV,Latvia,6.9,2025,10
+LV,Latvia,6.8,2025,11
+LV,Latvia,6.9,2025,12
+LV,Latvia,6.9,2026,1
+LV,Latvia,6.7,2026,2
+LV,Latvia,6.4,2026,3
+MK,North Macedonia,12.0,2025,7
+MK,North Macedonia,11.9,2025,8
+MK,North Macedonia,11.7,2025,9
+MK,North Macedonia,11.7,2025,10
+MK,North Macedonia,11.2,2025,11
+MK,North Macedonia,11.0,2025,12
+MK,North Macedonia,10.9,2026,1
+MK,North Macedonia,10.8,2026,2
+MK,North Macedonia,10.7,2026,3
+MT,Malta,2.7,2025,7
+MT,Malta,2.7,2025,8
+MT,Malta,2.9,2025,9
+MT,Malta,3.1,2025,10
+MT,Malta,3.3,2025,11
+MT,Malta,3.4,2025,12
+MT,Malta,3.5,2026,1
+MT,Malta,3.5,2026,2
+MT,Malta,3.5,2026,3
+NL,Netherlands,3.8,2025,7
+NL,Netherlands,3.9,2025,8
+NL,Netherlands,4.0,2025,9
+NL,Netherlands,4.0,2025,10
+NL,Netherlands,4.0,2025,11
+NL,Netherlands,4.0,2025,12
+NL,Netherlands,4.0,2026,1
+NL,Netherlands,4.1,2026,2
+NL,Netherlands,4.0,2026,3
+NL,Netherlands,3.9,2026,4
+NO,Norway,4.4,2025,7
+NO,Norway,4.9,2025,8
+NO,Norway,4.8,2025,9
+NO,Norway,4.4,2025,10
+NO,Norway,4.6,2025,11
+NO,Norway,4.3,2025,12
+NO,Norway,4.6,2026,1
+NO,Norway,4.9,2026,2
+NO,Norway,4.9,2026,3
+PL,Poland,3.2,2025,7
+PL,Poland,3.2,2025,8
+PL,Poland,3.2,2025,9
+PL,Poland,3.2,2025,10
+PL,Poland,3.2,2025,11
+PL,Poland,3.2,2025,12
+PL,Poland,3.2,2026,1
+PL,Poland,3.2,2026,2
+PL,Poland,3.3,2026,3
+PT,Portugal,6.0,2025,7
+PT,Portugal,6.0,2025,8
+PT,Portugal,6.0,2025,9
+PT,Portugal,5.8,2025,10
+PT,Portugal,5.7,2025,11
+PT,Portugal,5.6,2025,12
+PT,Portugal,5.6,2026,1
+PT,Portugal,5.8,2026,2
+PT,Portugal,5.8,2026,3
+RO,Romania,5.9,2025,7
+RO,Romania,6.1,2025,8
+RO,Romania,6.0,2025,9
+RO,Romania,6.1,2025,10
+RO,Romania,6.3,2025,11
+RO,Romania,6.1,2025,12
+RO,Romania,6.0,2026,1
+RO,Romania,6.0,2026,2
+RO,Romania,6.1,2026,3
+SE,Sweden,8.9,2025,7
+SE,Sweden,8.8,2025,8
+SE,Sweden,8.7,2025,9
+SE,Sweden,9.3,2025,10
+SE,Sweden,9.0,2025,11
+SE,Sweden,8.8,2025,12
+SE,Sweden,8.1,2026,1
+SE,Sweden,8.4,2026,2
+SE,Sweden,9.2,2026,3
+SE,Sweden,8.5,2026,4
+SI,Slovenia,3.7,2025,7
+SI,Slovenia,3.9,2025,8
+SI,Slovenia,4.1,2025,9
+SI,Slovenia,4.2,2025,10
+SI,Slovenia,4.2,2025,11
+SI,Slovenia,4.1,2025,12
+SI,Slovenia,3.9,2026,1
+SI,Slovenia,3.8,2026,2
+SI,Slovenia,3.9,2026,3
+SK,Slovakia,5.5,2025,7
+SK,Slovakia,5.4,2025,8
+SK,Slovakia,5.5,2025,9
+SK,Slovakia,5.5,2025,10
+SK,Slovakia,5.6,2025,11
+SK,Slovakia,5.6,2025,12
+SK,Slovakia,5.6,2026,1
+SK,Slovakia,5.6,2026,2
+SK,Slovakia,5.6,2026,3
+TR,Türkiye,8.1,2025,7
+TR,Türkiye,8.5,2025,8
+TR,Türkiye,8.6,2025,9
+TR,Türkiye,8.5,2025,10
+TR,Türkiye,8.6,2025,11
+TR,Türkiye,7.8,2025,12
+TR,Türkiye,8.1,2026,1
+TR,Türkiye,8.4,2026,2
+TR,Türkiye,8.1,2026,3
+US,United States,4.3,2025,7
+US,United States,4.3,2025,8
+US,United States,4.4,2025,9
+US,United States,4.5,2025,11
+US,United States,4.4,2025,12
+US,United States,4.3,2026,1
+US,United States,4.4,2026,2
+US,United States,4.3,2026,3
+AT,Austria,267.0,2025,7
+AT,Austria,285.0,2025,8
+AT,Austria,265.0,2025,9
+AT,Austria,279.0,2025,10
+AT,Austria,280.0,2025,11
+AT,Austria,280.0,2025,12
+AT,Austria,266.0,2026,1
+AT,Austria,276.0,2026,2
+AT,Austria,266.0,2026,3
+BA,Bosnia and Herzegovina,174.0,2025,7
+BA,Bosnia and Herzegovina,174.0,2025,8
+BA,Bosnia and Herzegovina,173.0,2025,9
+BA,Bosnia and Herzegovina,172.0,2025,10
+BA,Bosnia and Herzegovina,171.0,2025,11
+BA,Bosnia and Herzegovina,171.0,2025,12
+BA,Bosnia and Herzegovina,171.0,2026,1
+BA,Bosnia and Herzegovina,170.0,2026,2
+BE,Belgium,333.0,2025,7
+BE,Belgium,332.0,2025,8
+BE,Belgium,344.0,2025,9
+BE,Belgium,350.0,2025,10
+BE,Belgium,350.0,2025,11
+BE,Belgium,355.0,2025,12
+BE,Belgium,354.0,2026,1
+BE,Belgium,351.0,2026,2
+BE,Belgium,349.0,2026,3
+BG,Bulgaria,116.0,2025,7
+BG,Bulgaria,114.0,2025,8
+BG,Bulgaria,110.0,2025,9
+BG,Bulgaria,104.0,2025,10
+BG,Bulgaria,100.0,2025,11
+BG,Bulgaria,96.0,2025,12
+BG,Bulgaria,95.0,2026,1
+BG,Bulgaria,96.0,2026,2
+BG,Bulgaria,97.0,2026,3
+CH,Switzerland,252.0,2025,7
+CH,Switzerland,252.0,2025,8
+CH,Switzerland,255.0,2025,9
+CH,Switzerland,264.0,2025,10
+CH,Switzerland,266.0,2025,11
+CH,Switzerland,262.0,2025,12
+CY,Cyprus,23.0,2025,7
+CY,Cyprus,23.0,2025,8
+CY,Cyprus,22.0,2025,9
+CY,Cyprus,22.0,2025,10
+CY,Cyprus,22.0,2025,11
+CY,Cyprus,22.0,2025,12
+CY,Cyprus,23.0,2026,1
+CY,Cyprus,23.0,2026,2
+CY,Cyprus,23.0,2026,3
+CZ,Czechia,152.0,2025,7
+CZ,Czechia,167.0,2025,8
+CZ,Czechia,160.0,2025,9
+CZ,Czechia,171.0,2025,10
+CZ,Czechia,169.0,2025,11
+CZ,Czechia,165.0,2025,12
+CZ,Czechia,174.0,2026,1
+CZ,Czechia,173.0,2026,2
+CZ,Czechia,168.0,2026,3
+DE,Germany,1665.0,2025,7
+DE,Germany,1682.0,2025,8
+DE,Germany,1700.0,2025,9
+DE,Germany,1720.0,2025,10
+DE,Germany,1740.0,2025,11
+DE,Germany,1757.0,2025,12
+DE,Germany,1765.0,2026,1
+DE,Germany,1766.0,2026,2
+DE,Germany,1760.0,2026,3
+DK,Denmark,213.0,2025,7
+DK,Denmark,211.0,2025,8
+DK,Denmark,208.0,2025,9
+DK,Denmark,221.0,2025,10
+DK,Denmark,215.0,2025,11
+DK,Denmark,201.0,2025,12
+DK,Denmark,242.0,2026,1
+DK,Denmark,250.0,2026,2
+DK,Denmark,228.0,2026,3
+EA21,Euro area – 21 countries (from 2026),11111.0,2025,7
+EA21,Euro area – 21 countries (from 2026),11116.0,2025,8
+EA21,Euro area – 21 countries (from 2026),11158.0,2025,9
+EA21,Euro area – 21 countries (from 2026),11158.0,2025,10
+EA21,Euro area – 21 countries (from 2026),11063.0,2025,11
+EA21,Euro area – 21 countries (from 2026),11045.0,2025,12
+EA21,Euro area – 21 countries (from 2026),10916.0,2026,1
+EA21,Euro area – 21 countries (from 2026),11047.0,2026,2
+EA21,Euro area – 21 countries (from 2026),10984.0,2026,3
+EE,Estonia,60.0,2025,7
+EE,Estonia,54.0,2025,8
+EE,Estonia,53.0,2025,9
+EE,Estonia,50.0,2025,10
+EE,Estonia,47.0,2025,11
+EE,Estonia,48.0,2025,12
+EE,Estonia,46.0,2026,1
+EE,Estonia,52.0,2026,2
+EE,Estonia,52.0,2026,3
+EL,Greece,421.0,2025,7
+EL,Greece,412.0,2025,8
+EL,Greece,414.0,2025,9
+EL,Greece,424.0,2025,10
+EL,Greece,403.0,2025,11
+EL,Greece,377.0,2025,12
+EL,Greece,382.0,2026,1
+EL,Greece,417.0,2026,2
+EL,Greece,436.0,2026,3
+ES,Spain,2625.0,2025,7
+ES,Spain,2611.0,2025,8
+ES,Spain,2586.0,2025,9
+ES,Spain,2550.0,2025,10
+ES,Spain,2536.0,2025,11
+ES,Spain,2553.0,2025,12
+ES,Spain,2566.0,2026,1
+ES,Spain,2587.0,2026,2
+ES,Spain,2596.0,2026,3
+EU27_2020,European Union - 27 countries (from 2020),13243.0,2025,7
+EU27_2020,European Union - 27 countries (from 2020),13280.0,2025,8
+EU27_2020,European Union - 27 countries (from 2020),13317.0,2025,9
+EU27_2020,European Union - 27 countries (from 2020),13383.0,2025,10
+EU27_2020,European Union - 27 countries (from 2020),13271.0,2025,11
+EU27_2020,European Union - 27 countries (from 2020),13206.0,2025,12
+EU27_2020,European Union - 27 countries (from 2020),13073.0,2026,1
+EU27_2020,European Union - 27 countries (from 2020),13251.0,2026,2
+EU27_2020,European Union - 27 countries (from 2020),13226.0,2026,3
+FI,Finland,285.0,2025,7
+FI,Finland,290.0,2025,8
+FI,Finland,278.0,2025,9
+FI,Finland,302.0,2025,10
+FI,Finland,307.0,2025,11
+FI,Finland,298.0,2025,12
+FI,Finland,285.0,2026,1
+FI,Finland,309.0,2026,2
+FI,Finland,302.0,2026,3
+FI,Finland,308.0,2026,4
+FR,France,2437.0,2025,7
+FR,France,2447.0,2025,8
+FR,France,2483.0,2025,9
+FR,France,2518.0,2025,10
+FR,France,2501.0,2025,11
+FR,France,2489.0,2025,12
+FR,France,2466.0,2026,1
+FR,France,2453.0,2026,2
+FR,France,2439.0,2026,3
+HR,Croatia,85.0,2025,7
+HR,Croatia,85.0,2025,8
+HR,Croatia,85.0,2025,9
+HR,Croatia,83.0,2025,10
+HR,Croatia,82.0,2025,11
+HR,Croatia,81.0,2025,12
+HR,Croatia,79.0,2026,1
+HR,Croatia,76.0,2026,2
+HR,Croatia,73.0,2026,3
+HU,Hungary,212.0,2025,7
+HU,Hungary,211.0,2025,8
+HU,Hungary,219.0,2025,9
+HU,Hungary,221.0,2025,10
+HU,Hungary,215.0,2025,11
+HU,Hungary,216.0,2025,12
+HU,Hungary,220.0,2026,1
+HU,Hungary,223.0,2026,2
+HU,Hungary,214.0,2026,3
+IE,Ireland,148.0,2025,7
+IE,Ireland,146.0,2025,8
+IE,Ireland,143.0,2025,9
+IE,Ireland,137.0,2025,10
+IE,Ireland,135.0,2025,11
+IE,Ireland,141.0,2025,12
+IE,Ireland,146.0,2026,1
+IE,Ireland,148.0,2026,2
+IE,Ireland,146.0,2026,3
+IE,Ireland,140.0,2026,4
+IS,Iceland,10.0,2025,7
+IS,Iceland,10.0,2025,8
+IS,Iceland,11.0,2025,9
+IS,Iceland,11.0,2025,10
+IS,Iceland,13.0,2025,11
+IS,Iceland,14.0,2025,12
+IS,Iceland,14.0,2026,1
+IS,Iceland,14.0,2026,2
+IT,Italy,1531.0,2025,7
+IT,Italy,1499.0,2025,8
+IT,Italy,1533.0,2025,9
+IT,Italy,1480.0,2025,10
+IT,Italy,1433.0,2025,11
+IT,Italy,1425.0,2025,12
+IT,Italy,1322.0,2026,1
+IT,Italy,1361.0,2026,2
+IT,Italy,1323.0,2026,3
+JP,Japan,1680.0,2025,7
+JP,Japan,1790.0,2025,8
+JP,Japan,1810.0,2025,9
+JP,Japan,1840.0,2025,10
+JP,Japan,1800.0,2025,11
+JP,Japan,1840.0,2025,12
+JP,Japan,1910.0,2026,1
+JP,Japan,1840.0,2026,2
+JP,Japan,1860.0,2026,3
+LT,Lithuania,107.0,2025,7
+LT,Lithuania,108.0,2025,8
+LT,Lithuania,104.0,2025,9
+LT,Lithuania,105.0,2025,10
+LT,Lithuania,104.0,2025,11
+LT,Lithuania,104.0,2025,12
+LT,Lithuania,101.0,2026,1
+LT,Lithuania,104.0,2026,2
+LT,Lithuania,102.0,2026,3
+LU,Luxembourg,22.0,2025,7
+LU,Luxembourg,22.0,2025,8
+LU,Luxembourg,23.0,2025,9
+LU,Luxembourg,23.0,2025,10
+LU,Luxembourg,24.0,2025,11
+LU,Luxembourg,24.0,2025,12
+LU,Luxembourg,24.0,2026,1
+LU,Luxembourg,24.0,2026,2
+LU,Luxembourg,24.0,2026,3
+LV,Latvia,68.0,2025,7
+LV,Latvia,69.0,2025,8
+LV,Latvia,67.0,2025,9
+LV,Latvia,65.0,2025,10
+LV,Latvia,65.0,2025,11
+LV,Latvia,65.0,2025,12
+LV,Latvia,65.0,2026,1
+LV,Latvia,64.0,2026,2
+LV,Latvia,61.0,2026,3
+MK,North Macedonia,96.0,2025,7
+MK,North Macedonia,95.0,2025,8
+MK,North Macedonia,94.0,2025,9
+MK,North Macedonia,93.0,2025,10
+MK,North Macedonia,89.0,2025,11
+MK,North Macedonia,87.0,2025,12
+MK,North Macedonia,86.0,2026,1
+MK,North Macedonia,85.0,2026,2
+MK,North Macedonia,84.0,2026,3
+MT,Malta,9.0,2025,7
+MT,Malta,9.0,2025,8
+MT,Malta,10.0,2025,9
+MT,Malta,11.0,2025,10
+MT,Malta,11.0,2025,11
+MT,Malta,12.0,2025,12
+MT,Malta,12.0,2026,1
+MT,Malta,12.0,2026,2
+MT,Malta,12.0,2026,3
+NL,Netherlands,388.0,2025,7
+NL,Netherlands,401.0,2025,8
+NL,Netherlands,409.0,2025,9
+NL,Netherlands,411.0,2025,10
+NL,Netherlands,408.0,2025,11
+NL,Netherlands,410.0,2025,12
+NL,Netherlands,415.0,2026,1
+NL,Netherlands,416.0,2026,2
+NL,Netherlands,407.0,2026,3
+NL,Netherlands,397.0,2026,4
+NO,Norway,135.0,2025,7
+NO,Norway,150.0,2025,8
+NO,Norway,144.0,2025,9
+NO,Norway,135.0,2025,10
+NO,Norway,139.0,2025,11
+NO,Norway,130.0,2025,12
+NO,Norway,141.0,2026,1
+NO,Norway,150.0,2026,2
+NO,Norway,151.0,2026,3
+PL,Poland,560.0,2025,7
+PL,Poland,571.0,2025,8
+PL,Poland,577.0,2025,9
+PL,Poland,578.0,2025,10
+PL,Poland,574.0,2025,11
+PL,Poland,570.0,2025,12
+PL,Poland,565.0,2026,1
+PL,Poland,577.0,2026,2
+PL,Poland,591.0,2026,3
+PT,Portugal,333.0,2025,7
+PT,Portugal,337.0,2025,8
+PT,Portugal,336.0,2025,9
+PT,Portugal,328.0,2025,10
+PT,Portugal,319.0,2025,11
+PT,Portugal,314.0,2025,12
+PT,Portugal,315.0,2026,1
+PT,Portugal,326.0,2026,2
+PT,Portugal,328.0,2026,3
+RO,Romania,485.0,2025,7
+RO,Romania,495.0,2025,8
+RO,Romania,491.0,2025,9
+RO,Romania,496.0,2025,10
+RO,Romania,512.0,2025,11
+RO,Romania,499.0,2025,12
+RO,Romania,491.0,2026,1
+RO,Romania,495.0,2026,2
+RO,Romania,504.0,2026,3
+SE,Sweden,511.0,2025,7
+SE,Sweden,509.0,2025,8
+SE,Sweden,503.0,2025,9
+SE,Sweden,539.0,2025,10
+SE,Sweden,523.0,2025,11
+SE,Sweden,510.0,2025,12
+SE,Sweden,465.0,2026,1
+SE,Sweden,487.0,2026,2
+SE,Sweden,537.0,2026,3
+SE,Sweden,486.0,2026,4
+SI,Slovenia,39.0,2025,7
+SI,Slovenia,41.0,2025,8
+SI,Slovenia,43.0,2025,9
+SI,Slovenia,44.0,2025,10
+SI,Slovenia,43.0,2025,11
+SI,Slovenia,42.0,2025,12
+SI,Slovenia,40.0,2026,1
+SI,Slovenia,39.0,2026,2
+SI,Slovenia,40.0,2026,3
+SK,Slovakia,150.0,2025,7
+SK,Slovakia,150.0,2025,8
+SK,Slovakia,151.0,2025,9
+SK,Slovakia,152.0,2025,10
+SK,Slovakia,153.0,2025,11
+SK,Slovakia,154.0,2025,12
+SK,Slovakia,155.0,2026,1
+SK,Slovakia,154.0,2026,2
+SK,Slovakia,154.0,2026,3
+TR,Türkiye,2868.0,2025,7
+TR,Türkiye,3036.0,2025,8
+TR,Türkiye,3046.0,2025,9
+TR,Türkiye,3011.0,2025,10
+TR,Türkiye,3067.0,2025,11
+TR,Türkiye,2762.0,2025,12
+TR,Türkiye,2841.0,2026,1
+TR,Türkiye,2969.0,2026,2
+TR,Türkiye,2873.0,2026,3
+US,United States,7234.0,2025,7
+US,United States,7409.0,2025,8
+US,United States,7568.0,2025,9
+US,United States,7859.0,2025,11
+US,United States,7516.0,2025,12
+US,United States,7379.0,2026,1
+US,United States,7640.0,2026,2
+US,United States,7186.0,2026,3
