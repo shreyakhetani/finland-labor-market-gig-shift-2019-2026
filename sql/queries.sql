@@ -81,3 +81,36 @@
 	GROUP BY fred_finland_unemployment.year, google_trends.search_term
 	ORDER BY fred_finland_unemployment.year; 
 
+6. Unemployment vs taxi licence growth side by side
+-- Finding: Taxi licence numbers declined consistently from 12,332 in 2019 to 9,860 in 2023 despite fluctuating unemployment rates over the same period.
+-- However this decline is largely explained by a market correction following Finland's 2018 taxi deregulation boom, rather than people leaving gig work.
+-- Limitation: Traficom data only available until 2023, making it impossible to compare with the 2024-2026 period when unemployment reached its highest levels.
+-- Conclusion: Taxi licences alone are not a reliable proxy for gig economy participation. Google Trends keikkatyö data is a stronger indicator of actual gig work interest.
+
+	SELECT 
+		fu.year,
+		ROUND(AVG(fu.unemployment_rate), 1) AS avg_unemplyment_rate,
+		tl.number_of_licences
+
+	FROM fred_finland_unemployment fu
+	JOIN taxi_licences tl ON fu.year = tl.year
+	GROUP BY fu.year, tl.number_of_licences
+	ORDER BY fu.year;
+
+7.Finland vs neighboring countries monthly unemployment comparison (2025-2026)
+-- Finding: Finland's unemployment rose consistently from 9.7% in July 2025 to 11.2% in April 2026, a 15.5% increase in just 10 months.
+-- Neighbouring countries (DE, FR, SE, DK, EE, LV, LT) rose from 6.9% to 8.6% over the same period a 24.6% relative increase.
+-- While Finland's absolute unemployment numbers remain significantly higher, the rate of increase is actually faster in neighbouring countries.
+-- This suggests the current labor market downturn is a broader European trend, not just a Finland-specific problem.
+-- Note: Eurostat data only available from July 2025 onwards in this dataset.
+
+
+	SELECT 
+		year,
+		month,
+		ROUND(AVG(CASE WHEN geo = 'FI' AND obs_value < 30 THEN obs_value END), 1) AS finland_unemployment,
+		ROUND(AVG(CASE WHEN geo IN ('DE', 'FR', 'SE', 'DK', 'EE', 'LV', 'LT') 
+				AND obs_value < 30 THEN obs_value END), 1) AS neighboring_countries_avg
+	FROM eurostat_unemployment
+	GROUP BY year, month
+	ORDER BY year, month;
