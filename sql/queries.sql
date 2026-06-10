@@ -1,3 +1,14 @@
+-- =============================================================
+-- Project: Finland Labor Market & Gig Economy Shift (2019-2026)
+-- File: queries.sql
+-- Author: Shreya Khetani
+-- Description: 11 analysis queries exploring the relationship 
+--              between rising unemployment and gig economy 
+--              participation in Finland (2019-2026)
+-- Data Sources: FRED/OECD, Statistics Finland, Traficom, 
+--               Google Trends, Eurostat
+-- =============================================================
+
 1. How did Finland's unemployment rate change year by year 2019–2026?
 
 -- Finding: Pre-COVID baseline was 6.8% in 2019. COVID pushed it to 7.8% in 2020.
