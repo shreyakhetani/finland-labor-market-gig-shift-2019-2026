@@ -25,7 +25,7 @@ FROM '<YOUR_PATH>\data\cleaned\google_trends_yrittajaksi_2019_2026.csv'
 DELIMITER ','
 CSV HEADER;
 
-COPY google_trends(search_interest, year, month, source, search_term)
+COPY google_trends(search_interest, year, month, search_term, source)
 FROM '<YOUR_PATH>\data\cleaned\google_trends_keikkayto_2019_2026.csv'
 DELIMITER ','
 CSV HEADER;

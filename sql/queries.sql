@@ -114,3 +114,64 @@
 	FROM eurostat_unemployment
 	GROUP BY year, month
 	ORDER BY year, month;
+
+8. Year over year change in Finland unemployment rate (2019-2026)
+
+-- Finding: The biggest single year jump was in 2025 (+1.3%) followed by 2024 (+1.2%), confirming the post-2022 deterioration as the most severe period in the dataset.
+-- After a COVID recovery low of 6.8% in 2022, unemployment rose continuously, reaching EU-highest levels by 2025-2026.
+
+-- Notable: 2021 and 2022 showed negative change (-0.2 and -0.8) confirming a genuine recovery was underway before structural issues reversed the trend in 2023.
+-- This makes the post-2022 reversal more significant -- it interrupted a real recovery.
+
+-- Key drivers behind the post-2022 rise (sourced from Nordea, YLE, Bank of Finland):
+-- 1. Construction Crisis: ECB rapid rate hikes to curb inflation devastated residential construction, causing sector vacancies to drop by nearly half.
+-- 2. Government Policy: Austerity measures and cuts to unemployment benefits pushed more people into active job seeking in a market with heavily reduced openings.
+-- 3. Geopolitical Impact: Russia-Ukraine war triggered prolonged recession, soaring inflation and sluggish Eurozone growth reduced consumer confidence and overall demand in Finland's export-dependent economy.
+-- 4. Tech Sector Layoffs: Nokia and other Finnish tech companies made significant workforce reductions in 2023-2024, adding white-collar unemployment on top of the construction crisis -- hitting two major sectors simultaneously.
+
+	WITH yearly_unemployment AS (
+		SELECT 
+			year,
+			ROUND(AVG(unemployment_rate), 1) AS avg_unemployment
+		FROM fred_finland_unemployment
+		GROUP BY year
+	)
+	SELECT 
+		year,
+		avg_unemployment,
+		LAG(avg_unemployment) OVER (ORDER BY year) AS previous_year,
+		ROUND(avg_unemployment - LAG(avg_unemployment) OVER (ORDER BY year), 1) AS year_over_year_change
+	FROM yearly_unemployment
+	ORDER BY year;
+
+9. Gig search interest during high vs low unemployment years
+-- Finding: During High unemployment years (2020, 2021, 2024, 2025, 2026)
+-- keikkatyö (gig work) search interest averaged significantly higher compared to Low unemployment years (2019, 2022, 2023).
+-- Peak keikkatyö interest of 80.3 was recorded in 2024 a High unemployment year.
+-- people search for gig work more actively when traditional employment opportunities are scarce.
+--
+-- Contrasting trend: yrittäjäksi (entrepreneur) searches are higher during Low unemployment years, confirming people only consider starting businesses when they feel financially secure.
+--
+-- Key drivers behind High unemployment periods:
+-- 1. COVID shock (2020-2021): Sudden economic freeze across all sectors.
+-- 2. Construction crisis (2024-2026): Interest rate hikes caused sector unemployment of 14-16%, one of the hardest hit industries in Finland.
+-- 3. IT sector slowdown: Junior and generalist tech roles saw 6-7% unemployment as AI automation and VC funding cuts reduced demand.
+-- 4. Increased labor supply: Growing labor force participation outstripped subdued job demand, keeping unemployment structurally elevated.
+-- 5. Structural mismatches: Regional and skill-based gaps concentrated unemployment  among vulnerable groups in high cost areas like Helsinki.
+--
+-- Conclusion: High unemployment periods consistently drive people toward gig work as a survival mechanism, 
+
+	SELECT 
+			fu.year, 
+			ROUND(AVG(fu.unemployment_rate), 1) as avg_unemployment_rate,
+			ROUND(AVG(gt.search_interest),1) AS avg_search_interest,  
+			gt.search_term,
+				
+			CASE WHEN ROUND(AVG(fu.unemployment_rate), 1) < 7.5 THEN 'Low'
+				ELSE 'High' END
+				AS unemployment_category
+			
+		FROM fred_finland_unemployment fu
+		JOIN google_trends gt ON fu.year = gt.year
+		GROUP BY fu.year, gt.search_term
+		ORDER BY fu.year, gt.search_term;
